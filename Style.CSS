@@ -1,0 +1,94 @@
+body {
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(254, 3, 3, 1) 100%, rgba(0, 212, 255, 1) 100%);
+    color: white;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+
+title {
+    font-family: 'Roboto Mono', monospace;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BDO;
+    font-size: 20px;
+}
+
+.menu {
+    background: white;
+    width: 100%;
+    position: fixed;
+    margin-top: 0px;
+    top: 0px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+
+}
+
+#limw:hover {
+    color: aqua;
+    font-size: 20px;
+}
+
+#lifh:hover {
+    color: aqua;
+    font-size: 20px;
+}
+
+#limi:hover {
+    color: aqua;
+    font-size: 20px;
+}
+
+#lic:hover {
+    color: aqua;
+    font-size: 20px;
+}
+
+#lia:hover {
+    color: aqua;
+    font-size: 20px;
+}
+
+.list {
+    display: inline;
+    color: fuchsia;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+
+.minecraftimage {
+    height: 500px;
+    width: 500px
+}
+
+html {
+    scroll-behavior: smooth;
+    text-align: center;
+}
+
+.imageinspiration {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+imageinspiration:hover {
+    transform: scale(0.9);
+}
+
+.contact_1 iframe {
+    width: 100%
+}
